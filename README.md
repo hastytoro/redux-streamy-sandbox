@@ -1,6 +1,6 @@
-## Twitch.tv Clone
+## Streamy
 
-> A twitch clone.
+> Used as a reference (playground) of `redux` (CRUD) and `react-router-dom` operations.
 
 ![alt text](./capture.png)
 
@@ -10,7 +10,7 @@ Featuring:
 - Need to allow a user to login/logout with [auth0](https://auth0.com/)
 - Need to handle forms in [Redux](https://react-redux.js.org/)
 - Handle CRUD (Create, Read, Update, Delete) operations within Redux
-- Manage error handling conditions within Application
+- Async **actions creators** make use of `redux-thunk` middleware.
 
 Regards, <br />
 Luigi Lupini <br />
